@@ -15,7 +15,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 This license is subject to change or modification at any time by the author. It is your responsibility to check for updates to this license.
 
-For inquiries about commercial use, distribution, adaptation, or any other matters related to this license, please contact the author at hoanghuutrung431@gmail.com
+For inquiries about distribution, adaptation, or any other matters related to this license, please contact the author at hoanghuutrung431@gmail.com
 
 # E14 Open Source License - Vietnamese
 ### Neurs (Hoàng Hữu Trung) © 2023
@@ -34,4 +34,4 @@ Theo đây, quyền được cấp miễn phí cho bất kỳ người nào có 
 
 Giấy phép này có thể được tác giả thay đổi hoặc sửa đổi bất cứ lúc nào. Bạn có trách nhiệm kiểm tra các bản cập nhật của giấy phép này.
 
-Nếu có thắc mắc về việc sử dụng thương mại, phân phối, chuyển thể hoặc bất kỳ vấn đề nào khác liên quan đến giấy phép này, vui lòng liên hệ với tác giả qua hoanghuutrung431@gmail.com
+Nếu có thắc mắc về việc sử dụng, phân phối, chuyển thể hoặc bất kỳ vấn đề nào khác liên quan đến giấy phép này, vui lòng liên hệ với tác giả qua hoanghuutrung431@gmail.com
